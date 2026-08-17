@@ -41,7 +41,7 @@ public class GameScreen extends InputAdapter implements Screen {
     private static final float VIEWPORT_WIDTH = 20f;
     private static final float VIEWPORT_HEIGHT = 12f;
     private static final int OURO_INICIAL = 100;
-    private static final float TAMANHO_INIMIGO = 0.5f;
+    private static final float TAMANHO_INIMIGO = 0.8f;
     private static final float TAMANHO_TORRE = 0.8f;
     private static final float TAMANHO_SLOT = 0.5f;
     private static final float TAMANHO_PROJETIL = 0.2f;
